@@ -1,0 +1,12 @@
+.add-task-container {
+    display: flex;
+    background-color: red;
+    border-radius: 20px;
+    padding: 4%;
+    margin: 4% 10%;
+}
+
+.input-task {
+    margin-right: 10px !important;
+    /* bac */
+}
